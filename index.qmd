@@ -101,6 +101,13 @@ Dynamic listing data coming soon.
 </form>
 
 ```
+<!-- Netlify form registration helper -->
+<div style="display: none;">
+  <form name="home-value" netlify>
+    <input type="text" name="name" />
+  </form>
+</div>
+
 <footer style="background-color: #f8f8f8; padding: 20px; text-align: center; margin-top: 50px;">
   <p>Follow me:</p>
 
