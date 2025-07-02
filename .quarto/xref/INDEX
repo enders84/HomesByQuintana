@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "aca42ccd"
+  },
+  "buyer-seller-insights.qmd": {
+    "buyer-seller-insights.html": "a5a0f74c"
+  },
+  "contact.qmd": {
+    "contact.html": "901c5304"
+  },
+  "index.qmd": {
+    "index.html": "f835efaf"
+  },
+  "market-report.qmd": {
+    "market-report.html": "f052a03b"
+  },
+  "marketing-insights.qmd": {
+    "marketing-insights.html": "f39cf4b2"
+  },
+  "success.qmd": {
+    "success.html": "c512e86d"
+  },
+  "summary.qmd": {
+    "summary.html": "f6a8503d"
+  },
+  "templates/templates.hi.qmd": {
+    "templates.hi.html": "a3f76a94"
+  },
+  "templates.qmd": {
+    "templates.html": "01304104"
+  }
+}

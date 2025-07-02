@@ -1,0 +1,20 @@
+---
+title: "Thank You"
+format: html
+page-layout: full
+css: styles.css
+---
+
+<div style="max-width: 600px; margin: 0 auto; padding: 40px; text-align: center; border: 1px solid #ccc; border-radius: 12px; background-color: #fdfdfd; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
+  <h1 style="font-size: 2rem;">✅ Submission Received</h1>
+
+  <p style="font-size: 1.2rem; margin: 20px 0;">
+    Thanks! I’ll reach out with your custom home value report shortly.
+  </p>
+
+  <a href="/" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    ← Back to Homepage
+  </a>
+
+</div>

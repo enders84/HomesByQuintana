@@ -1,0 +1,122 @@
+---
+title: ""
+description: ""
+format: html
+toc: true
+toc-title: "Quick Navigation"
+toc-location: left
+css: styles.css
+title-block-banner: false
+---
+
+<div class="hero">
+
+# Welcome to Homes by Quintana
+
+Your trusted real estate expert serving Rancho Cucamonga and the San Bernardino & Los Angeles County region.
+
+Whether you're buying, selling, or investing — I can help you make informed decisions.
+
+</div>
+
+---
+
+# Explore the Market
+
+- [🏡 Get Your Home Price Estimate](https://slyfoxx84.shinyapps.io/house-prices-advanced-regression-techniques/)
+- [🧮 Market Insights](marketing-insights.qmd)
+- [📈 Market Watch](https://slyfoxx84.shinyapps.io/realestateapp/)
+
+
+---
+
+# Featured Listings
+
+🏡 **Active Listings:**  
+Dynamic listing data coming soon.
+
+🚀 **Coming Soon Properties:**  
+- Rancho Vista Estates — Opening Fall 2025  
+- Bella Vista Condos — Pre-sales starting soon!
+
+---
+
+# Services Offered
+
+🏡 Full-Service Residential Sales  
+🔑 First-Time Buyer Assistance  
+🛋️ Seller Staging Consultations  
+📊 Investment Property Analysis
+
+---
+
+## Send Me a Message Directly
+
+```{=html}
+<h2 style="text-align: center;">🏠 Get Your FREE Custom Home Value Estimate</h2>
+<p style="text-align: center;">
+  Curious what your home is worth in today's market? I'll prepare a personalized, no-obligation estimate for you. Just fill out the form below:
+</p>
+
+<form name="home-value" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/success.html" 
+      style="max-width: 600px; margin: 30px auto; padding: 25px; border: 1px solid #ccc; border-radius: 10px; background: #fdfdfd;">
+  
+  <input type="hidden" name="form-name" value="home-value" />
+
+  <!-- Honeypot (spam trap) -->
+  <p style="display: none;">
+    <label>Don’t fill this out: <input name="bot-field" /></label>
+  </p>
+
+  <div style="margin-bottom: 15px;">
+    <label for="name">Name:</label><br>
+    <input type="text" name="name" id="name" required style="width: 100%; padding: 10px;">
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="email">Email:</label><br>
+    <input type="email" name="email" id="email" required style="width: 100%; padding: 10px;">
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="phone">Phone Number:</label><br>
+    <input type="tel" name="phone" id="phone" style="width: 100%; padding: 10px;">
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="address">Property Address:</label><br>
+    <input type="text" name="address" id="address" required style="width: 100%; padding: 10px;">
+  </div>
+
+  <div style="margin-bottom: 15px;">
+    <label for="message">Any questions or special details you'd like to add?</label><br>
+    <textarea name="message" id="message" rows="4" style="width: 100%; padding: 10px;"></textarea>
+  </div>
+
+  <div style="text-align: center;">
+    <button type="submit" style="padding: 10px 25px; background-color: #0077cc; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Get My Estimate
+    </button>
+  </div>
+</form>
+
+```
+<footer style="background-color: #f8f8f8; padding: 20px; text-align: center; margin-top: 50px;">
+  <p>Follow me:</p>
+
+  <a href="https://twitter.com/HomesbyQuintana" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter" style="margin: 0 10px;">
+  </a>
+
+  <a href="https://instagram.com/homesbyquintana" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" style="margin: 0 10px;">
+  </a>
+
+  <a href="https://www.tiktok.com/@homesbyquintana" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok.png" alt="TikTok" style="margin: 0 10px;">
+  </a>
+
+  <a href="https://www.facebook.com/me/" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" style="margin: 0 10px;">
+  </a>
+</footer>
