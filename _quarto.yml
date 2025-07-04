@@ -25,6 +25,8 @@ website:
         href: buyer-seller-insights.qmd
       - text: Templates
         href: templates.qmd
+      - text: JusticeBot
+        href: https://slyfoxx84.shinyapps.io/justicebot/
       - text: About Me
         href: about.qmd
       - text: Contact
