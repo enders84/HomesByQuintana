@@ -11,11 +11,13 @@ title-block-banner: false
 
 <div class="hero">
 
-# Welcome to Homes by Quintana
+# Welcome to the Century 21 Experience  
+### Powered Locally by HomesByQuintana
 
-Your trusted real estate expert serving Rancho Cucamonga and the San Bernardino & Los Angeles County region.
+Serving Rancho Cucamonga and the Inland Empire with national strength and local insight.
 
-Whether you're buying, selling, or investing — I can help you make informed decisions.
+Whether you're buying, selling, or investing — I'm here to help you succeed with confidence and clarity.
+
 
 </div>
 
@@ -26,7 +28,6 @@ Whether you're buying, selling, or investing — I can help you make informed de
 - [🏡 Get Your Home Price Estimate](https://slyfoxx84.shinyapps.io/house-prices-advanced-regression-techniques/)
 - [🧮 Market Insights](marketing-insights.qmd)
 - [📈 Market Watch](https://slyfoxx84.shinyapps.io/realestateapp/)
-
 
 ---
 
@@ -46,11 +47,19 @@ Dynamic listing data coming soon.
 🏡 Full-Service Residential Sales  
 🔑 First-Time Buyer Assistance  
 🛋️ Seller Staging Consultations  
-📊 Investment Property Analysis
+📊 Investment Property Analysis  
+🤝 Backed by Century 21 Experience’s trusted network
+
+---
+
+# Why Century 21 Experience?
+
+With the support of one of the most recognized names in real estate, I bring you enhanced tools, marketing reach, and local insight — all designed to get you results.
 
 ---
 
 ## Send Me a Message Directly
+
 
 ```{=html}
 <h2 style="text-align: center;">🏠 Get Your FREE Custom Home Value Estimate</h2>

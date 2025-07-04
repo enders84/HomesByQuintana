@@ -3,10 +3,10 @@ project:
 
 website:
   google-analytics: "G-JRHMPYF406"
-  favicon: images/logo.png
+  favicon: images/Century_21.png
   description: "Helping buyers and sellers in Rancho Cucamonga and surrounding areas make smarter real estate decisions with expert market insights and trusted service."
   sidebar:
-    logo: images/logo.png
+    logo: images/Century_21.png
     pinned: false
     style: floating
     search: false
