@@ -60,11 +60,12 @@ With the support of one of the most recognized names in real estate, I bring you
 
 # Need Legal advise?
 
-🧠 **Introducing JusticeBot**
+👨‍🏫 **Introducing JusticeBot** 🧑‍💼
   
-Not sure if you need a lawyer or a paralegal? Want to know the cost of common legal services like divorce, custody, or immigration filings?
+🧠 Need Legal Help for a Property Issue?
+Not sure if you need a lawyer or a paralegal? Want to know the cost of common real estate legal services like lease agreements, evictions, deed transfers, or HOA disputes?
 
-JusticeBot gives you **free legal insights**, shows **estimated price ranges**, and even links you to **official forms**.
+JusticeBot gives you free legal insights, shows estimated price ranges, and even links you to official California forms.
 
 <center>
 <a href="https://slyfoxx84.shinyapps.io/justicebot" target="_blank">
